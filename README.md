@@ -1,25 +1,28 @@
 # Learning Log
 
-A daily log of what I learn while studying programming, computer science, and related tools.
+This repository contains my daily learning notes while studying programming, computer science, and development tools.  
+The goal of this repo is to:
 
----
+- Build consistency  
+- Track learning progress  
+- Create a personal reference for revision  
 
-## Goals
-- Learn consistently
-- Keep notes short and clear
-- Build a personal knowledge base
+## Python Notes
 
----
+- Introduction → `python/introduction.md`  
+- Data Types → `python/data-types.md`  
+- Operators → `python/operators.md`  
+- Control Flow → `python/control-flow.md`  
+- Functions → `python/functions.md`  
+- Modules → `python/modules.md`  
+- Lists & Tuples → `python/lists-tuples.md`  
 
-## Topics
-- Python
-- Git & GitHub
-- Data Structures & Algorithms
-- Web Basics
-- Tools & Utilities
+## Purpose
+This repository focuses on:
 
----
+- Clear understanding over memorization  
+- Small but consistent updates  
+- Practical learning documentation  
 
-## Notes
-- One topic per file
-- Updated regularly
+## Started
+February 2026
